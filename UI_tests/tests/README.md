@@ -51,3 +51,5 @@ pytest UI_tests/tests/
 
 ```bash
 pytest --alluredir=allure-results
+
+
